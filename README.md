@@ -5,6 +5,7 @@
 - 📫 How to reach me ...coderytorg@gmail.com
 - 😄 Pronouns: ...GG
 - ⚡ Fun fact: ...I am smart
+ohhhh
 
 <!---
 THECHAOSAGENT/THECHAOSAGENT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
